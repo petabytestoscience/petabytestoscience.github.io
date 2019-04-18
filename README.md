@@ -1,37 +1,17 @@
-## Petabytes to Science
+## About this workshop series
 
-You can use the [editor on GitHub](https://github.com/petabytestoscience/petabytestoscience.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The [Association of Universities for Research in Astronomy](https://www.aura-astronomy.org/) (AURA) is organizing a series of workshops on “Petabytes to Science”, supported by [The Kavli Foundation](https://www.kavlifoundation.org/). These workshops aim to identify the highest priority technologies and capabilities required for a broad-based user community to take full scientific advantage of the opportunities in data-intensive astronomy being created by the [Large Synoptic Survey Telescope](https://www.lsst.org/) (LSST), the [Wide Field Infrared Space Telescope](https://wfirst.gsfc.nasa.gov/) (WFIRST), and other massive survey facilities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Workshop 1 - July 2018 (Chicago)
 
-### Markdown
+The first Kavli Petabytes to Science workshop engaged a small group of domain experts on the resources necessary to maximize the scientific returns of the large volume and high-complexity datasets to be produced by AURA observatories in the coming decades. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Workshop 2 - February 2019 (Las Vegas)
 
-```markdown
-Syntax highlighted code block
+The second workshop was held February 12-14, 2019 in Las Vegas, NV. The aim of this workshop was to discuss important trends and technologies for data intensive astronomy, especially with LSST and WFIRST, and to formulate potential white papers. With a holistic approach, the approximately 30 participants built a single document encompassing several broad categories; this document will be made publicly available in April 2019. 
 
-# Header 1
-## Header 2
-### Header 3
+### Workshop 3 - October 2019 (Boston)
 
-- Bulleted
-- List
+The third workshop will be held in Boston, 22-24 October 2019. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/petabytestoscience/petabytestoscience.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
