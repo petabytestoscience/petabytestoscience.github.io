@@ -2,6 +2,10 @@
 
 The [Association of Universities for Research in Astronomy](https://www.aura-astronomy.org/) (AURA) is organizing a series of workshops on “Petabytes to Science”, supported by [The Kavli Foundation](https://www.kavlifoundation.org/). These workshops aim to identify the highest priority technologies and capabilities required for a broad-based user community to take full scientific advantage of the opportunities in data-intensive astronomy being created by the [Large Synoptic Survey Telescope](https://www.lsst.org/) (LSST), the [Wide Field Infrared Space Telescope](https://wfirst.gsfc.nasa.gov/) (WFIRST), and other massive survey facilities.
 
+<div markdown="span" class="alert alert-info" role="alert">
+Alert!
+</div>
+
 ### Workshop 1 - July 2018 (Chicago)
 
 The first Kavli Petabytes to Science workshop engaged a small group of domain experts on the resources necessary to maximize the scientific returns of the large volume and high-complexity datasets to be produced by AURA observatories in the coming decades. 
