@@ -4,7 +4,7 @@ The [Association of Universities for Research in Astronomy](https://www.aura-ast
 These workshops aim to identify the highest priority technologies and capabilities required for a broad-based user community to take full scientific advantage of the opportunities in data-intensive astronomy being created by the [Large Synoptic Survey Telescope](https://www.lsst.org/) (LSST), the [Wide Field Infrared Space Telescope](https://wfirst.gsfc.nasa.gov/) (WFIRST), and other massive survey facilities. We also looked at the implications for the workforce, education and public outreach.
 
 <div markdown="span" style="background-color: #ffff99; padding: 10px">
-[This is the  current draft document from the second workshop](PetaBytes-2019-05-09.pdf) - 
+[This is the  current draft document from the second workshop](PetaBytes-2019-05-12.pdf) - 
 please contact the chapter authors if you are interested to contribute to potential white papers or express your interest in [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSczQhwkBsOVfpFft_cl9r3d4EaMJ1k-d5AQ0whLh-LWF04Qaw/viewform?usp=sf_link).
 </div>
 
