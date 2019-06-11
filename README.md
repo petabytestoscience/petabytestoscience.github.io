@@ -18,6 +18,6 @@ The second workshop was held February 12-14, 2019 in Las Vegas, NV. The aim of t
 
 ### Workshop 3 - October 2019 (Boston)
 
-The third workshop will be held in Boston, 22-24 October 2019. 
+The third workshop will be held in Boston, 6/7/8 November 2019. 
 
 
