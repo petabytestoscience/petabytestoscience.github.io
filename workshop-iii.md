@@ -22,7 +22,7 @@ The meeting will be a combination of plenary sessions, afternoon 'un-conference'
 
 The main goals for this workshop are:
 
-- To gather feedback on the ideas discussed in [this document](https://arxiv.org/abs/1905.05116) and to refine specific challenges/needs in each area.a.
+- To gather feedback on the ideas discussed in [this document](https://arxiv.org/abs/1905.05116) and to refine specific challenges/needs in each area.
 - To develop community support for a ‘data inclusion revolution’ in astronomy.
 - To produce a small collection of roadmaps/action plans for each of the main challenges that includes deliverables, resource estimates, priorities, and to establish ongoing working groups motivated to address these challenges.
 
