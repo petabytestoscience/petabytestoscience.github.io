@@ -16,6 +16,6 @@ The first Kavli Petabytes to Science workshop engaged a small group of domain ex
 
 The second workshop was held February 12-14, 2019 in Las Vegas, NV. The aim of this workshop was to discuss important trends and technologies for data intensive astronomy, especially with LSST and WFIRST, and to formulate potential white papers. With a holistic approach, the approximately 30 participants built a single document encompassing several broad categories; this document will be made publicly available in April 2019.
 
-### Workshop III - October 2019 (Boston)
+### Workshop III - November 2019 (Boston)
 
-The third workshop will be held in Boston, 6/7/8 November 2019.
+The third workshop will be held in Boston, 6/7/8 November 2019. Read more [here &rarr;](workshop-iii)

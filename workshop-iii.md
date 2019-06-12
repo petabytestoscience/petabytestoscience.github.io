@@ -1,4 +1,7 @@
-## Data inclusion revolution: Enabling petabytes to science in the 2020s
+---
+title: "Data inclusion revolution: Enabling petabytes to science in the 2020s"
+description: "Workshop III - Boston MA, 6/7/8 November 2019"
+---
 
 In the 2020s, astronomers will be faced with the task of interpreting vast quantities of data from the LSST and other large open data survey missions such as WFIRST. The challenge for any individual or research group working at the petabyte scale are significant, the challenges of making it possible for any astronomer to work with these data are immense.
 
