@@ -8,7 +8,7 @@ In the 2020s, astronomers will be faced with the task of interpreting vast quant
 This community workshop is designed to gather a broad collection of astronomers, educators, and engineers to discuss the technical, institutional, and sociological barriers preventing any astronomer leveraging the scientific potential of these petabyte-scale datasets, and to develop a community roadmap designed to address these challenges and enable a [data inclusion revolution in astronomy](https://astrosociety.org/37RYL62T/astrobeat/ab2018-162.pdf).
 
 <div markdown="span" style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
-We're currently collecting the details of those individuals interested in attending this workshop. If you're interested in participating, please fill in the signup form [here &rarr;](http://example.com)
+We're currently collecting the details of those individuals interested in attending this workshop. If you're interested in participating, please fill in the signup form [here &rarr;](https://forms.gle/CDHoNw3MyFeXRk91A)
 </div>
 
 ### Who this workshop is for
