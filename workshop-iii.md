@@ -9,6 +9,8 @@ This community workshop is designed to gather a broad collection of astronomers,
 
 <div markdown="span" style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
 If you're interested in participating, please fill in the signup form [here &rarr;](https://forms.gle/CDHoNw3MyFeXRk91A)
+
+As we're expecting more interest from the community than we can support, the SOC will confirm participation by mid-August 2019.
 </div>
 
 ### Who this workshop is for
