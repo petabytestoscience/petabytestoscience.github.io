@@ -1,9 +1,13 @@
 ---
-title: "Data inclusion revolution: Enabling petabytes to science in the 2020s"
-description: "Workshop III - Boston MA, 6/7/8 November 2019"
+title: "Data inclusion revolution"
+description: "A community workshop on enabling petabytes to science in the 2020s<br /> Boston MA, 6/7/8 November 2019"
 ---
 
 In the 2020s, astronomers will be faced with the task of interpreting vast quantities of data from the LSST and other large open data survey missions such as WFIRST. The challenge for any individual or research group working at the petabyte scale are significant, the challenges of making it possible for any astronomer to work with these data are immense.
+
+<div class="logos" markdown="span">
+![Kavli logo]({{ site.url }}/assets/kavli-logo.png){: .logo-image } ![AURA logo]({{ site.url }}/assets/aura-logo.png){: .logo-image }
+</div>
 
 This community workshop is designed to gather a broad collection of astronomers, educators, and engineers to discuss the technical, institutional, and sociological barriers preventing any astronomer leveraging the scientific potential of these petabyte-scale datasets, and to develop a community roadmap designed to address these challenges and enable a [data inclusion revolution in astronomy](https://astrosociety.org/news-publications/astrobeat.html) (article made available courtesy of ASP).
 
@@ -32,8 +36,9 @@ The meeting will be a combination of plenary sessions, afternoon 'un-conference'
 The main goals for this workshop are:
 
 - To gather feedback on the ideas discussed in [this document](https://arxiv.org/abs/1905.05116) and to refine specific challenges/needs in each area.
-- To develop community support for a ‘data inclusion revolution’ in astronomy.
+- To develop community-based networks and support for a ‘data inclusion revolution’ in astronomy.
 - To produce a small collection of roadmaps/action plans for each of the main challenges that includes deliverables, resource estimates, priorities, and to establish ongoing working groups motivated to address these challenges.
+- Provide actionable input to major astronomy user facilities.
 
 ### Participation: Attendees & travel support
 

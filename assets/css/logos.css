@@ -1,0 +1,13 @@
+.logos {
+  width: 100%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.logos img:first-child {
+  margin-right: 80px;
+}
+
+.logo-image{
+  width: 240px;
+}
