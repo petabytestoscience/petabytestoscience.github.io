@@ -60,5 +60,5 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - [Nanci Reich](https://www.linkedin.com/in/nanci-reich-ba3698140/)
 - [Alex Szalay](http://www.sdss.jhu.edu/~szalay/)
 - [Arfon Smith](http://arfon.org)
-- Robert Tawa
+- [Robert Tawa](https://www.linkedin.com/in/bobtawa)
 - [Anne-Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)
