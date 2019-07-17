@@ -12,9 +12,17 @@ please contact the chapter authors if you are interested to contribute to potent
 
 The first Kavli Petabytes to Science workshop engaged a small group of domain experts on the resources necessary to maximize the scientific returns of the large volume and high-complexity datasets to be produced by AURA observatories in the coming decades.
 
+**Attendees**
+
+Adam Bolton, Jo Bovy, Andy Connolly, Ting Li, Nirav Merchant, Nanci Reich, Arfon Smith, David Steuerman, Lucianne Walkowicz, Anne-Marie Weijmans
+
 ### Workshop II - February 2019 (Las Vegas)
 
 The second workshop was held February 12-14, 2019 in Las Vegas, NV. The aim of this workshop was to discuss important trends and technologies for data intensive astronomy, especially with LSST and WFIRST, and to formulate potential white papers. With a holistic approach, the approximately 30 participants built a single document encompassing several broad categories; this document will be made publicly available in April 2019.
+
+**Attendees**
+
+Yusra	AlSayyad, Amanda Bauer, Eric Bellm, Adam Bolton, Surajit Chaudhuri, Andrew Connolly, Kelle Cruz, Vandana Desai, Alex Drlica-Wagner, Frossie Economou, Niall Gaffney, JJ Kavelaars, Jamie Kinney, Jeremy Kubica, Britt Lundgren, Raffaella Margutti, Chris Martin, Nirav Merchant, Stuart Mumford, Gautham Narayan, Brian Nord, Dara Norman, Wil O'Mullane, Sanjay Padhi, Josh Peek, Chad Schafer, Meg Schwamb, David Schlegel, Arfon Smith, Alex Szalay, Erik Tollerud, Anne-Marie Weijmans
 
 ### Workshop III - November 2019 (Boston)
 
