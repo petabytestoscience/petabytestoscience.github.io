@@ -9,7 +9,7 @@ In the 2020s, astronomers will be faced with the task of interpreting vast quant
 ![Kavli logo]({{ site.url }}/assets/kavli-logo.png){: .logo-image } ![AURA logo]({{ site.url }}/assets/aura-logo.png){: .logo-image }
 </div>
 
-This community workshop is designed to gather a broad collection of astronomers, educators, and engineers to discuss the technical, institutional, and sociological barriers preventing any astronomer leveraging the scientific potential of these petabyte-scale datasets, and to develop a community roadmap designed to address these challenges and enable a [data inclusion revolution in astronomy](https://astrosociety.org/news-publications/astrobeat.html) (article made available courtesy of ASP).
+The third meeting in a [series on this topic](/), this community workshop is designed to gather a broad collection of astronomers, educators, and engineers to discuss the technical, institutional, and sociological barriers preventing any astronomer leveraging the scientific potential of these petabyte-scale datasets, and to develop a community roadmap designed to address these challenges and enable a [data inclusion revolution in astronomy](https://astrosociety.org/news-publications/astrobeat.html) (article made available courtesy of ASP).
 
 <div markdown="span" style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
 If you're interested in participating, please fill in the signup form [here &rarr;](https://forms.gle/CDHoNw3MyFeXRk91A)  
