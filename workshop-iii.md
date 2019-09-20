@@ -65,99 +65,96 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 
 ### Provisional attendees
 
-- Simone Aiola
+- Simone Aiola (confirmed)
 - Yusra AlSayyad
 - Lauren Anderson
-- Nicolò  Antonietti
-- Dino Bektesevic
-- Pankaj Bhambhani
+- Nicolò  Antonietti (confirmed)
+- Dino Bektesevic (confirmed)
+- Pankaj Bhambhani (confirmed)
 - Adam Bolton
 - Daina Bouquin
 - Marek Bute
-- Surajit  Chaudhuri
+- Surajit  Chaudhuri (confirmed)
 - Brian Cherinka
 - Dylan Cromer
-- Kelle Cruz
+- Kelle Cruz (confirmed)
 - Matias Carrasco Kind
-- Hsin-Fang Chiang
-- Steve Crawford
-- Raffaele D'Abrusco
-- James Dawson
+- Hsin-Fang Chiang (confirmed)
+- Steve Crawford (confirmed)
+- Raffaele D'Abrusco (confirmed)
+- James Dawson (confirmed)
 - Will Dawson
 - Mario Nascimento De Pra
 - Francisco Delgado
 - Stephanie Douglas
-- Frossie Economou
-- Martin Borstad Eriksen
-- Jackie Faherty
-- Bridget Falck
+- Frossie Economou (confirmed)
+- Martin Borstad Eriksen (confirmed)
+- Jackie Faherty (confirmed)
+- Bridget Falck (confirmed)
 - Niall Gaffney
-- Sergio Garza
+- Sergio Garza (confirmed)
 - Jasmine Gill
-- Brian Glendenning
+- Brian Glendenning (confirmed)
 - V. Zach Golkhou
-- Sebastian Gomez
+- Sebastian Gomez (confirmed)
 - Nazaret Bello González
 - Arvind Gopu
 - Steve Groom
 - Leanne Guy
-- P. Bryan Heidorn
+- P. Bryan Heidorn (confirmed)
 - Matthew Holman
-- Griffin Hosseinzadeh
-- Mario Juric
-- Jeyhan Kartaltepe
+- Griffin Hosseinzadeh (confirmed)
+- Mario Juric (confirmed)
+- Jeyhan Kartaltepe (confirmed)
 - Heather Kelly
-- Jamie Kinney
-- Diana Yawa Klutse
-- Jeremy Kubica
-- Ting Li
+- Jamie Kinney (confirmed)
+- Diana Yawa Klutse (confirmed)
+- Jeremy Kubica (confirmed)
+- Ting Li (confirmed)
 - Sarah Loebman
 - Britt Lundgren
-- Claudio Maccone
 - Sangeeta Malhotra
 - Mariarosa Marinelli
 - Chris Martin
-- Rafael  Martínez-Galarza
+- Rafael Martínez-Galarza (confirmed)
 - Curtis McCully
 - Adam McMaster
-- Peter Melchior
+- Peter Melchior (confirmed)
 - Jurgen Mifsud
 - Nathan Miles
 - Joan Najita
-- Gautham Narayan
-- Dylan Nelson
-- Mark Newhouse
+- Gautham Narayan (confirmed)
+- Dylan Nelson (confirmed)
+- Mark Newhouse (confirmed)
 - Rebecca Nevin
-- Robert Nikutta
+- Robert Nikutta (confirmed)
 - Brian Nord
-- Dara Norman
-- Wil O'Mullane
+- Dara Norman (confirmed)
 - Ray O'Neal, Jr.
 - Knut Olsen
 - Sanjay Padhi
 - Josh Peek
 - Adrian Price-Whelan
 - Meredith Rawls
-- Nanci Reich
-- Francia Riesco
-- José Sánchez-Gallego
+- Nanci Reich (confirmed)
+- Francia Riesco (confirmed)
+- José Sánchez-Gallego (confirmed)
 - Phil Scherrer
-- Eric Schlegel
-- Sutirtha Sengupta
-- Brigitta Sipőcz
-- Arfon Smith
-- Greg Snyder
-- Marcelle Soares-Santos
+- Eric Schlegel (confirmed)
+- Sutirtha Sengupta (confirmed)
+- Brigitta Sipőcz (confirmed)
+- Arfon Smith (confirmed)
+- Greg Snyder (confirmed)
 - Rachel Somerville
 - Monika Soraisam
 - Megan Sosey
-- Gretchen Stahlman
+- Gretchen Stahlman (confirmed)
 - Christopher Stubbs
 - John Swinbank
-- Hyungsuk Tak
-- Dimitrios Tanoglidis
+- Hyungsuk Tak (confirmed)
+- Dimitrios Tanoglidis (confirmed)
 - Bob Tawa
 - Erik Tollerud
-- Samuel Twum
+- Samuel Twum (confirmed)
 - Anne-Marie Weijmans
 - Peter Williams
