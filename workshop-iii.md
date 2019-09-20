@@ -62,3 +62,102 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - [Arfon Smith](http://arfon.org)
 - [Robert Tawa](https://www.linkedin.com/in/bobtawa)
 - [Anne-Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)
+
+### Provisional attendees
+
+- Simone Aiola
+- Yusra AlSayyad
+- Lauren Anderson
+- Nicolò  Antonietti
+- Dino Bektesevic
+- Pankaj Bhambhani
+- Adam Bolton
+- Daina Bouquin
+- Marek Bute
+- Surajit  Chaudhuri
+- Brian Cherinka
+- Dylan Cromer
+- Kelle Cruz
+- Matias Carrasco Kind
+- Hsin-Fang Chiang
+- Steve Crawford
+- Raffaele D'Abrusco
+- James Dawson
+- Will Dawson
+- Mario Nascimento De Pra
+- Francisco Delgado
+- Stephanie Douglas
+- Frossie Economou
+- Martin Borstad Eriksen
+- Jackie Faherty
+- Bridget Falck
+- Niall Gaffney
+- Sergio Garza
+- Jasmine Gill
+- Brian Glendenning
+- V. Zach Golkhou
+- Sebastian Gomez
+- Nazaret Bello González
+- Arvind Gopu
+- Steve Groom
+- Leanne Guy
+- P. Bryan Heidorn
+- Matthew Holman
+- Griffin Hosseinzadeh
+- Mario Juric
+- Jeyhan Kartaltepe
+- Heather Kelly
+- Jamie Kinney
+- Diana Yawa Klutse
+- Jeremy Kubica
+- Ting Li
+- Sarah Loebman
+- Britt Lundgren
+- Claudio Maccone
+- Sangeeta Malhotra
+- Mariarosa Marinelli
+- Chris Martin
+- Rafael  Martínez-Galarza
+- Curtis McCully
+- Adam McMaster
+- Peter Melchior
+- Jurgen Mifsud
+- Nathan Miles
+- Joan Najita
+- Gautham Narayan
+- Dylan Nelson
+- Mark Newhouse
+- Rebecca Nevin
+- Robert Nikutta
+- Brian Nord
+- Dara Norman
+- Wil O'Mullane
+- Ray O'Neal, Jr.
+- Knut Olsen
+- Sanjay Padhi
+- Josh Peek
+- Adrian Price-Whelan
+- Meredith Rawls
+- Nanci Reich
+- Francia Riesco
+- José Sánchez-Gallego
+- Phil Scherrer
+- Eric Schlegel
+- Sutirtha Sengupta
+- Brigitta Sipőcz
+- Arfon Smith
+- Greg Snyder
+- Marcelle Soares-Santos
+- Rachel Somerville
+- Monika Soraisam
+- Megan Sosey
+- Gretchen Stahlman
+- Christopher Stubbs
+- John Swinbank
+- Hyungsuk Tak
+- Dimitrios Tanoglidis
+- Bob Tawa
+- Erik Tollerud
+- Samuel Twum
+- Anne-Marie Weijmans
+- Peter Williams
