@@ -67,18 +67,15 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 
 - Simone Aiola (confirmed)
 - Yusra AlSayyad
-- Lauren Anderson
+- Lauren Anderson (confirmed)
 - Nicolò  Antonietti (confirmed)
 - Dino Bektesevic (confirmed)
 - Pankaj Bhambhani (confirmed)
-- Adam Bolton
-- Daina Bouquin
-- Marek Bute
+- Adam Bolton (confirmed)
 - Surajit  Chaudhuri (confirmed)
-- Brian Cherinka
+- Brian Cherinka (confirmed)
 - Dylan Cromer
 - Kelle Cruz (confirmed)
-- Matias Carrasco Kind
 - Hsin-Fang Chiang (confirmed)
 - Steve Crawford (confirmed)
 - Raffaele D'Abrusco (confirmed)
@@ -91,7 +88,7 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - Martin Borstad Eriksen (confirmed)
 - Jackie Faherty (confirmed)
 - Bridget Falck (confirmed)
-- Niall Gaffney
+- Niall Gaffney (confirmed)
 - Sergio Garza (confirmed)
 - Jasmine Gill
 - Brian Glendenning (confirmed)
@@ -111,31 +108,30 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - Diana Yawa Klutse (confirmed)
 - Jeremy Kubica (confirmed)
 - Ting Li (confirmed)
-- Sarah Loebman
-- Britt Lundgren
+- Sarah Loebman (confirmed)
+- Britt Lundgren (confirmed)
 - Sangeeta Malhotra
 - Mariarosa Marinelli
 - Chris Martin
 - Rafael Martínez-Galarza (confirmed)
 - Curtis McCully
-- Adam McMaster
+- Adam McMaster (confirmed)
 - Peter Melchior (confirmed)
-- Jurgen Mifsud
-- Nathan Miles
+- Jurgen Mifsud (confirmed)
 - Joan Najita
 - Gautham Narayan (confirmed)
 - Dylan Nelson (confirmed)
 - Mark Newhouse (confirmed)
-- Rebecca Nevin
+- Rebecca Nevin (confirmed)
 - Robert Nikutta (confirmed)
 - Brian Nord
 - Dara Norman (confirmed)
 - Ray O'Neal, Jr.
 - Knut Olsen
 - Sanjay Padhi
-- Josh Peek
-- Adrian Price-Whelan
-- Meredith Rawls
+- Josh Peek (confirmed)
+- Adrian Price-Whelan (confirmed)
+- Meredith Rawls (confirmed)
 - Nanci Reich (confirmed)
 - Francia Riesco (confirmed)
 - José Sánchez-Gallego (confirmed)
@@ -146,15 +142,15 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - Arfon Smith (confirmed)
 - Greg Snyder (confirmed)
 - Rachel Somerville
-- Monika Soraisam
-- Megan Sosey
+- Monika Soraisam (confirmed)
+- Megan Sosey (confirmed)
 - Gretchen Stahlman (confirmed)
 - Christopher Stubbs
-- John Swinbank
+- John Swinbank (confirmed)
 - Hyungsuk Tak (confirmed)
 - Dimitrios Tanoglidis (confirmed)
 - Bob Tawa
 - Erik Tollerud
 - Samuel Twum (confirmed)
 - Anne-Marie Weijmans
-- Peter Williams
+- Peter Williams (confirmed)
