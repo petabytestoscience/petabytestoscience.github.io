@@ -66,7 +66,7 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 ### Provisional attendees
 
 - Simone Aiola (confirmed)
-- Yusra AlSayyad
+- Yusra AlSayyad (confirmed)
 - Lauren Anderson (confirmed)
 - Nicolò  Antonietti (confirmed)
 - Dino Bektesevic (confirmed)
@@ -74,16 +74,14 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - Adam Bolton (confirmed)
 - Surajit  Chaudhuri (confirmed)
 - Brian Cherinka (confirmed)
-- Dylan Cromer
 - Kelle Cruz (confirmed)
 - Hsin-Fang Chiang (confirmed)
 - Steve Crawford (confirmed)
 - Raffaele D'Abrusco (confirmed)
 - James Dawson (confirmed)
 - Will Dawson
-- Mario Nascimento De Pra
 - Francisco Delgado
-- Stephanie Douglas
+- Stephanie Douglas (confirmed)
 - Frossie Economou (confirmed)
 - Martin Borstad Eriksen (confirmed)
 - Jackie Faherty (confirmed)
@@ -92,43 +90,38 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - Sergio Garza (confirmed)
 - Jasmine Gill
 - Brian Glendenning (confirmed)
-- V. Zach Golkhou
 - Sebastian Gomez (confirmed)
-- Nazaret Bello González
-- Arvind Gopu
-- Steve Groom
+- Nazaret Bello González (confirmed)
+- Arvind Gopu (confirmed)
+- Steve Groom (confirmed)
 - Leanne Guy
 - P. Bryan Heidorn (confirmed)
-- Matthew Holman
+- Matthew Holman (confirmed)
 - Griffin Hosseinzadeh (confirmed)
 - Mario Juric (confirmed)
 - Jeyhan Kartaltepe (confirmed)
-- Heather Kelly
+- Heather Kelly (confirmed)
 - Jamie Kinney (confirmed)
 - Diana Yawa Klutse (confirmed)
 - Jeremy Kubica (confirmed)
 - Ting Li (confirmed)
 - Sarah Loebman (confirmed)
 - Britt Lundgren (confirmed)
-- Sangeeta Malhotra
-- Mariarosa Marinelli
-- Chris Martin
+- Sangeeta Malhotra (confirmed)
 - Rafael Martínez-Galarza (confirmed)
 - Curtis McCully
 - Adam McMaster (confirmed)
 - Peter Melchior (confirmed)
 - Jurgen Mifsud (confirmed)
-- Joan Najita
 - Gautham Narayan (confirmed)
 - Dylan Nelson (confirmed)
 - Mark Newhouse (confirmed)
 - Rebecca Nevin (confirmed)
 - Robert Nikutta (confirmed)
-- Brian Nord
+- Brian Nord (confirmed)
 - Dara Norman (confirmed)
 - Ray O'Neal, Jr.
-- Knut Olsen
-- Sanjay Padhi
+- Sanjay Padhi (confirmed)
 - Josh Peek (confirmed)
 - Adrian Price-Whelan (confirmed)
 - Meredith Rawls (confirmed)
@@ -141,7 +134,7 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - Brigitta Sipőcz (confirmed)
 - Arfon Smith (confirmed)
 - Greg Snyder (confirmed)
-- Rachel Somerville
+- Rachel Somerville (confirmed)
 - Monika Soraisam (confirmed)
 - Megan Sosey (confirmed)
 - Gretchen Stahlman (confirmed)
@@ -149,8 +142,8 @@ We expect the meeting to include up to 100 attendees. In order to ensure there i
 - John Swinbank (confirmed)
 - Hyungsuk Tak (confirmed)
 - Dimitrios Tanoglidis (confirmed)
-- Bob Tawa
-- Erik Tollerud
+- Bob Tawa (confirmed)
+- Erik Tollerud (confirmed)
 - Samuel Twum (confirmed)
 - Anne-Marie Weijmans
 - Peter Williams (confirmed)
