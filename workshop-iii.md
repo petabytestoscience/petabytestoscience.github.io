@@ -3,6 +3,11 @@ title: "Data inclusion revolution"
 description: "A community workshop on enabling petabytes to science in the 2020s<br /> Boston MA, 6/7/8 November 2019"
 ---
 
+<div markdown="span" style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
+The provisional agenda is now available [here &rarr;](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2bv9QNpNBPysLJ0he_F_N5p7nUOR5terztxwOiOkPGt5KLE-Qobcj_nk2A2lvdYN0K8sJeCPKRByM/pubhtml?gid=0&single=true)  
+</div>
+
+
 In the 2020s, astronomers will be faced with the task of interpreting vast quantities of data from the LSST and other large open data survey missions such as WFIRST. The challenge for any individual or research group working at the petabyte scale are significant, the challenges of making it possible for any astronomer to work with these data are immense.
 
 <div class="logos" markdown="span">
@@ -10,12 +15,6 @@ In the 2020s, astronomers will be faced with the task of interpreting vast quant
 </div>
 
 The third meeting in a [series on this topic](/), this community workshop is designed to gather a broad collection of astronomers, educators, and engineers to discuss the technical, institutional, and sociological barriers preventing any astronomer leveraging the scientific potential of these petabyte-scale datasets, and to develop a community roadmap designed to address these challenges and enable a [data inclusion revolution in astronomy](https://astrosociety.org/news-publications/astrobeat.html) (article made available courtesy of ASP).
-
-<div markdown="span" style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
-If you're interested in participating, please fill in the signup form [here &rarr;](https://forms.gle/CDHoNw3MyFeXRk91A)  
-<br />
-As we're expecting more interest from the community than we can support, the SOC will confirm participation by early-September 2019.
-</div>
 
 ### Who this workshop is for
 
@@ -40,9 +39,9 @@ The main goals for this workshop are:
 - To produce a small collection of roadmaps/action plans for each of the main challenges that includes deliverables, resource estimates, priorities, and to establish ongoing working groups motivated to address these challenges.
 - Provide actionable input to major astronomy user facilities.
 
-### Participation: Attendees & travel support
+### Provisional agenda
 
-We expect the meeting to include up to 100 attendees. In order to ensure there is good representation of all types of institutions, full travel support (flight, hotel, per diem) is available for those individuals who's participation in this meeting is contingent on receiving travel support.
+<iframe width="100%" height="1100px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2bv9QNpNBPysLJ0he_F_N5p7nUOR5terztxwOiOkPGt5KLE-Qobcj_nk2A2lvdYN0K8sJeCPKRByM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Science organizing committee
 
