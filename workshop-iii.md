@@ -62,7 +62,7 @@ The main goals for this workshop are:
 - [Robert Tawa](https://www.linkedin.com/in/bobtawa)
 - [Anne-Marie Weijmans](http://www-star.st-and.ac.uk/~amw23/)
 
-### Provisional attendees
+### Attendees
 
 - Simone Aiola (confirmed)
 - Yusra AlSayyad (confirmed)
