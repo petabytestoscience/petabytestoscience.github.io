@@ -3,10 +3,15 @@ title: "Data inclusion revolution"
 description: "A community workshop on enabling petabytes to science in the 2020s<br /> Boston MA, 6/7/8 November 2019"
 ---
 
-<div markdown="span" style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
-The provisional agenda is now available [here &rarr;](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2bv9QNpNBPysLJ0he_F_N5p7nUOR5terztxwOiOkPGt5KLE-Qobcj_nk2A2lvdYN0K8sJeCPKRByM/pubhtml?gid=0&single=true)  
+<div style="background-color: #ffff99; border: 2px solid orange; padding: 20px">
+  <ul style="list-style:none;padding:0px;margin:0px;text-align:center;">
+    <li style="display:inline;padding-right:20px;"><a href="#agenda">Agenda</a></li> &middot;
+    <li style="display:inline;padding-right:20px;padding-left:20px;"><a href="#attendees">Attendees</a></li> &middot;
+    <li style="display:inline;padding-right:20px;padding-left:20px;"><a href="#hotel">Hotel</a></li> &middot;
+    <li style="display:inline;padding-right:20px;padding-left:20px;"><a href="#science-organizing-committee">Science Organizing Committee</a></li> &middot;
+    <li style="display:inline;padding-left:20px;"><a href="#venue">Venue</a></li>
+  </ul>
 </div>
-
 
 In the 2020s, astronomers will be faced with the task of interpreting vast quantities of data from the LSST and other large open data survey missions such as WFIRST. The challenge for any individual or research group working at the petabyte scale are significant, the challenges of making it possible for any astronomer to work with these data are immense.
 
@@ -39,9 +44,31 @@ The main goals for this workshop are:
 - To produce a small collection of roadmaps/action plans for each of the main challenges that includes deliverables, resource estimates, priorities, and to establish ongoing working groups motivated to address these challenges.
 - Provide actionable input to major astronomy user facilities.
 
-### Provisional agenda
+### Agenda
 
 <iframe width="100%" height="1100px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2bv9QNpNBPysLJ0he_F_N5p7nUOR5terztxwOiOkPGt5KLE-Qobcj_nk2A2lvdYN0K8sJeCPKRByM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+### Hotel
+
+Hyatt Regency in Cambridge   
+575 Memorial Drive Cambridge  
+MA 02139
+
+Please coordinate with [Nanci Reich](mailto:nreich@aura-astronomy.org) if you want to book a room at the preferred rate.
+
+- [Hotel website](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-cambridge-overlooking-boston/bosrc?src=corp_lclb_gmb_seo_nam_bosrc)
+- [Maps link](https://g.page/HyattRegencyCambridge?share)
+
+### Venue
+
+Dante Alighieri Society of Massachusetts  
+41 Hampshire Street  
+Cambridge, MA 02139  
+
+- [Venue website](http://www.dantemass.org/html/home.html)
+- [Maps link](https://goo.gl/maps/jpMNdaL3NR1ee8LE8)
+
+Please note, the venue is ~1.3 miles from the conference hotel.
 
 ### Science organizing committee
 
