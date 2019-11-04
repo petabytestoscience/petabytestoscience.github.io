@@ -46,7 +46,7 @@ The main goals for this workshop are:
 
 ### Agenda
 
-<iframe width="100%" height="1100px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2bv9QNpNBPysLJ0he_F_N5p7nUOR5terztxwOiOkPGt5KLE-Qobcj_nk2A2lvdYN0K8sJeCPKRByM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="1200px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2bv9QNpNBPysLJ0he_F_N5p7nUOR5terztxwOiOkPGt5KLE-Qobcj_nk2A2lvdYN0K8sJeCPKRByM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Hotel
 
